@@ -173,7 +173,7 @@
 				<pod name="FirebaseMessaging" spec="11.2.0"/>
 				<pod name="FirebasePerformance" spec="11.2.0"/>
 				<pod name="FirebaseRemoteConfig" spec="11.2.0"/>
-				<pod name="FirebaseInAppMessaging" spec="11.2.0-beta"/>
+				<!--<pod name="FirebaseInAppMessaging" spec="11.2.0-beta"/>-->
 				<pod name="FirebaseFirestore" spec="11.2.0"/>
 				<pod name="FirebaseCrashlytics" spec="11.2.0"/>
 				<pod name="FirebaseFunctions" spec="11.2.0"/>
